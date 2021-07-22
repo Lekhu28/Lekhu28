@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main(){
+    float a=3.4,b=5.5;
+    cout<<"Enter two numbers:"
+    cout<<"product of these two numbers is: "<<a*b;
+return 0;
+}
